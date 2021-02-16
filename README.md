@@ -3,7 +3,7 @@ Performing Analysis on KickStarter data to uncover trends
 
 ## Overview of Project/ Purpose 
 
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, I visualize campaign outcomes based on their launch dates and their funding goals. The purpose of this analysis is to give Louise’s information on which months “theater” are successful and failed. Additionally, show the funding percentage of “plays” that are successful and failed. This will help Louise know when it is best to launch a campaign and how much funding to ask.
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, I visualize campaign outcomes based on their launch dates and their funding goals. The purpose of this analysis is to give Louise’s information on which months “theater” are successful, failed, and canceled. Additionally, show the funding percentage of “plays” that are successful, failed, and canceled. This will help Louise know when it is best to launch a campaign and how much funding to ask.
 
 ## Analysis and Challenges
 
