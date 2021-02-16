@@ -12,7 +12,7 @@ In the excel sheet labeled “Theater Outcomes Based by launch Date” I generat
 ![](Theater_Outcomes_vs_Launch.png)
 
  
-In the excel sheet labeled “Outcomes Base on Goals Chart” represents the goal amounts and the percentage successful for the “plays” subcategory. Here we see goals between $0 and $5000 are more likely to be successful with goal less than $1000 have a success rate of 76% and $1000 to $4999 have a goal success rate of 73%. However, campaign goals between $35000 and $44999 also have a high percentage success rate of 67%. 
+In the excel sheet labeled “Outcomes Base on Goals Chart” represents the goal amounts and the percentage successful for the “plays” subcategory. Here we see goals between $0 and $5000 are more likely to be successful with goal less than $1000 have a success rate of 76% and $1000 to $4999 have a goal success rate of 73%. Funding starts to steadly decrease after goals set between $1000 to $4999.
 
 ![](Outcomes_vs_Goals.png)
 
