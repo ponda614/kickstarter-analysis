@@ -17,7 +17,7 @@ In the excel sheet labeled “Outcomes Base on Goals Chart” represents the goa
 ![](Outcomes_vs_Goals.png)
 
 
-## Challenges
+### Challenges
 I face several challenges when working with the data set. In “Theater Outcomes Base on Launch Date” I had trouble with making the pivot table. With the pivot table I had issues with switching the columns of successful, failed, and canceled. I eventually just googled how to switch columns in the pivot table. I just had to right click inside the table and select the “move” in the drop down and selected the column to move to the front of the data set. 
 
 In the “Outcome Based on Goal” I had trouble with the COUNTIFS() function. I did not get the hint that was provided in the module. I then got assistance from another student who explained what I was doing wrong. I was not filling out the complete criteria range. It should be COUNTIFS(Criteria_range1, Criteria1). I also had issues with generating the line graph. I was selecting the entire table I created, however, I only need to select goals, percentage successful, failed and canceled. 
